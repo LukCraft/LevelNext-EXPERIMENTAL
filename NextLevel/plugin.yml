@@ -2,4 +2,7 @@ name: NextLevel
 version: 0.0.1
 api: 1.6.0
 main: Praxthisnovcht\utils\NextLevel
-author: Praxthisnovcht
+depend: [CustomChat]
+author: Done But SourceCode https://github.com/Tschrock/PM-XPerience/blob/master/plugin.yml
+
+
